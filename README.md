@@ -20,6 +20,5 @@ A simple bash script to reverse a string (MLH LHD: Build)
   ./run.sh
   ```
 ### 💻 In Action:
-
-
+![image](https://user-images.githubusercontent.com/56017960/148877924-b36fecbf-7120-4be0-a2fd-33bc05d64120.png)
 
